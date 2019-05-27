@@ -1,0 +1,48 @@
+Mongo db 
+Query
+Pug
+Express.js
+Mongoose
+Leaflet
+Leaflet.markercluster
+express-vue. 1)$ npm install --save express-vue
+ue-router  1)npm install --save vue-router npm install --save router-express
+
+Web pack sudo npm install --save-dev webpack - установка вебпака
+npm install --save-dev webpack-cli установка cli
+
+
+
+webpack --config webpack.config.js - установка файла конфига
+
+webpack --config my.config.js
+
+
+npm i -g webpack-cli - установка глобально
+
+
+webpack.config.js - создать вручную
+
+Сделать замену в Джон файле 
+"build": "webpack --config prod.config.js"
+
+Включить Jquery в webpack
+npm i jquery -D
+
+npm run webpack - сборка проекта по конфигурации вебпака
+
+npm install bootstrap jquery popper.js --save - установка jquery
+
+
+
+///////////////////////
+Веб Пак тут не нужен будет
+ТехДокументация.txt 
+Инициализирую
+npm init
+Устанавливаю нужные плагины 
+npm install express --save
+sudo npm install http
+npm install mongoose --save
+npm install pug-render
+npm install axios
