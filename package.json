@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/AlexandrRumiantsev/app_map#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "express": "^4.17.0",
     "http": "0.0.0",
     "mongoose": "^5.5.11",
